@@ -540,12 +540,12 @@
     border-bottom:1px solid gray;
 }
 .zhuan>img{
-    margin-left:80px;
+    margin-left:10%;
     margin-top:20px;
     float:left;
 }
 .zhuan>div{
-    margin-left:40px;
+    margin-left:10%;
     margin-top:20px;
     float:left;
 }
