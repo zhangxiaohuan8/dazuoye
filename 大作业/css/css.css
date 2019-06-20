@@ -499,6 +499,10 @@
 #xiatu2{
     width:100%;
 }
+#lanlan{
+    column-count: 3;
+    column-gap: 0px;
+}
 #lan{
     width:390px;
     height:350px;
