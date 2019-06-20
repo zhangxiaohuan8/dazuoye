@@ -106,7 +106,9 @@
         height:32px;
         width:96%;
     }
+    
 }
+
 @media screen and (min-width:751px){
     .carousel-caption>h4{
         display:none;
@@ -265,14 +267,18 @@
     margin-right:auto;
     width:88%;
     height:27%;
-
+    font-size:15px;
 }
 .jichang4>img{
     float:left;
-    margin-top:10px;
+    margin-top:0.5%;
+    width:20%;
+    /* height:80%; */
 }
 .jichang5{
     float:left;
+    width:50%;
+    height:80%;
 }
 .jichang4>h4{
     font-size:20px;
@@ -288,9 +294,8 @@
 }
 .chakan{
     float:left;
-    width:100px;
+    width:20%;;
     height:30px;
-    font-size:20;
     color:gray;
     padding-left:10px;
     padding-top:5px;
@@ -335,6 +340,7 @@
     font-size:20px;
     margin-top:30px;
     margin-left:10px;
+    width:90%;
 }
 #luxian>.container>.row>.col-xs-6>img{
     margin-top:5px;
@@ -548,6 +554,7 @@
     margin-left:10%;
     margin-top:20px;
     float:left;
+    width:50%;
 }
 #di{
     background-color:#000;
